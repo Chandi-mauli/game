@@ -1,0 +1,96 @@
+<html>
+
+<head>
+
+	<title> action games </title>
+
+
+<style>
+
+	.h1{
+		text-align: center;
+		font-size: 40px;
+		
+	}
+	.footer{
+	padding: 20px;
+	font-size: 20px;
+	float: left;
+	color: white;
+	outline-color: bisque;
+	text-decoration: none;
+	background-color: lightslategrey;
+	width: 100%;
+}
+
+
+	
+</style>
+</head>
+<body bgcolor="lightpink">
+
+	<h1 class=h1> ACTION GAMES </h1>
+
+<br>
+<h2><ul style="list-style-type:disc">
+<li> About Action Games</li>
+</ul></h2>
+
+
+<p> An action game is a video game genre that emphasizes physical challenges, including hand–eye  coordination and reaction-time. The genre includes a large variety of sub-genres, such as fighting games, beat 'em ups, shooter games, and platform games.</p>
+
+<br>
+
+<br>
+<h2><ol start="1">
+<li> RULES</li>
+</ol></h2>
+
+<ul style="list-style-type:circle;">
+	<li>Active Time Events </li>
+	<li>Stealth missions are fun</li>
+     <li> Special editions are a requirement</li>
+     <li>Movement of summary </li>
+ </ul>
+
+<br>
+<h2><ol start="2">
+<li> challenges</li>
+</ol></h2>
+
+<ul style="list-style-type:circle;">
+	<li>The action game include any games where the players over comes challenge by physical suchas precise aim and quick response times. action games can incorporate other challenges such as races,puzzels or collecting objects,but they are not central to the genre. 
+ </ul>
+
+<br>
+
+<h2><ol start="3">
+<li> GOALS </li>
+</ol></h2>
+
+
+<ul style="list-style-type:circle;">
+	<li> Set smart goals </li>
+	<li> Create alist of actions </li>
+     <li>Set a time line </li>
+     <li>designate resource </li>
+</ul>
+<br>
+<br>
+
+
+<h2><ol start="4">
+<li>players</li>
+</ol></h2>
+
+<p><ul style="list-style-type:circle;">
+<li> 6-8 Players </li>
+</p>
+
+
+<footer class="footer"><i>
+		THANKS FOR VISITING MY WEBSITE</i>
+		 </footer>
+</body>
+</html>
+
